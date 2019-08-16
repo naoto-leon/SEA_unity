@@ -51,3 +51,6 @@ use shader graph made Sea
 □カメラ深度による処理。　正直良くわかってない(笑)  
 □[参考]https://www.youtube.com/watch?v=tbySMSh6Ip0
 
+□最初に見た時に意味がわからなすぎたCameraノード。
+<img width="699" alt="スクリーンショット 2019-08-16 23 15 10" src="https://user-images.githubusercontent.com/43961147/63173905-d3e4ac00-c07b-11e9-8e0c-e5f1507d7616.png">
+Planeの距離を既に取ってくれているノードなど分かるとかなり便利。
