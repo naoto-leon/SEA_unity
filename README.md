@@ -48,6 +48,6 @@ use shader graph made Sea
 #### Depth
 <img width="1534" alt="Depthsea" src="https://user-images.githubusercontent.com/43961147/63169633-48b2e880-c072-11e9-93c6-0b8d03787b96.png">
 
-□カメラ深度による処理。　正直良くわかってない(笑)
+□カメラ深度による処理。　正直良くわかってない(笑)  
 □[参考]https://www.youtube.com/watch?v=tbySMSh6Ip0
 
