@@ -1,4 +1,4 @@
-# Sea Unity
+# Sea Unity shader
 use shader graph made Sea 
 
 #### shader graphで海を作った。  
