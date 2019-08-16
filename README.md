@@ -37,3 +37,13 @@ use shader graph made Sea
 □入れるか迷ったエフェクト。フレネル深度はただ中が黒くなるような絵が欲しかっただけ。ノイズを入れてランダムっぽい動きにしてるが広範囲で見るとパターンがが垣間見える。  
 
 ***
+#### Vertex
+
+<img width="607" alt="vertexsea" src="https://user-images.githubusercontent.com/43961147/63169080-dd1c4b80-c070-11e9-8b7e-3fdfcbb5e63e.png">
+
+□Vertexのテンプレ的エフェクト。　
+□X,Y,Zに対してYベクトルをノイズで揺らしている。
+
+***
+#### Depth
+
