@@ -30,3 +30,10 @@ use shader graph made Sea
 □とりあえずノイズの動きを作る。(基本的にはVertexで使用したい為)
 
 ***
+#### SEA Wave Line
+
+<img width="826" alt="colorsea" src="https://user-images.githubusercontent.com/43961147/63168741-ece76000-c06f-11e9-93b1-00c2a9a43629.png">
+
+□入れるか迷ったエフェクト。フレネル深度はただ中が黒くなるような絵が欲しかっただけ。ノイズを入れてランダムっぽい動きにしてるが広範囲で見るとパターンがが垣間見える。  
+
+***
