@@ -12,3 +12,5 @@ use shader graph made Sea
 最も手軽な海の表現としてはてテクスチャーのUVスクロールかなと勝手に思っていますが、それだとどうしてもカートゥン調の物になってしまう(そちらもいつか書こうと思います)
 ので、今回はリアルな海の表現にこだわりました。  
 
+#### 全体図
+<img width="1680" alt="allsea" src="https://user-images.githubusercontent.com/43961147/63167350-04244e80-c06c-11e9-86f0-c38d925439b4.png">
