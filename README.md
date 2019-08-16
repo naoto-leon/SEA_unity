@@ -22,3 +22,11 @@ use shader graph made Sea
 
 □基本のUVスクロール。少し特殊なのは向きや速さを変えた二つのTextureをNormalBlendでブレンドしている事。
 ***
+
+#### Noize
+<img width="1207" alt="noizesea" src="https://user-images.githubusercontent.com/43961147/63167791-4c903c00-c06d-11e9-84ba-78206f3326db.png">
+
+□基本的にXとZベクトルしか使わない。(Splitの使い方が違う気もするけど指定した座標を取るやり方を他に知らない(笑))
+□とりあえずノイズの動きを作る。(基本的にはVertexで使用したい為)
+
+***
